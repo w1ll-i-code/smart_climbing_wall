@@ -1,0 +1,15 @@
+* Routes
+    * Get route
+    * Create route
+    * Update route
+    * Delete route
+    * Select route
+
+* Handle
+    * Set high
+
+* Configuration
+    * Get configuration
+    * Set configuration for single Handle
+    * (Optional) collapse configuration
+    * (Optional) Rescan network (handle joined/left)
